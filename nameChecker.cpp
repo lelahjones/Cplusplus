@@ -1,7 +1,6 @@
-// Lelas Jones-Olender
-// CIS 115 0001
-// 10/2/2021
-// Programming Project # 17 Using vectores to store lists from external files and checking input against them
+// Lelah Jones-Olender
+
+// Programming Project # 17 Using vectors to store lists from external files and checking input against them
 
 
 
